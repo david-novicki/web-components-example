@@ -16,6 +16,3 @@ class HelloElement extends HTMLElement {
 }
 // Define the new element with the CustomElementsRegistry
 customElements.define('hello-element', HelloElement);
-
-
-lsUsers
